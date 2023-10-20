@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/images">
+        <file>order.png</file>
+        <file>login.png</file>
+        <file>sign.png</file>
+        <file>Screenshot (264).png</file>
+        <file>Screenshot_275_1_430x150.png</file>
+        <file>Screenshot__277_-removebg-preview.png</file>
+        <file>Screenshot__277_-removebg-preview_190x90.png</file>
+    </qresource>
+</RCC>
